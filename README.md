@@ -1,31 +1,28 @@
-# Smart-Glass-Overlay
-#  **SmartShades – Face Overlay with Sunglasses**
+# Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 
-**SmartShades** is a fun and creative computer vision project that adds stylish sunglasses to individual passport-size photos using image processing techniques. It transforms ordinary images into something visually cool while demonstrating practical OpenCV concepts.
+Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
----
+Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sunglasses on individual passport photos! This repository demonstrates how to use image processing techniques to create a playful transformation, making ordinary photos look extraordinary. Whether you're a beginner exploring computer vision or just looking for a quirky project to try, this is for you!
 
-##  **Overview**
+## Features:
+- Detects the face in an image.
+- Places a stylish sunglass overlay perfectly on the face.
+- Works seamlessly with individual passport-size photos.
+- Customizable for different sunglasses styles or photo types.
 
-This project detects a face in an image and accurately places a sunglasses overlay on it. It is a great starting point for anyone interested in **computer vision**, **image processing**, and **Python-based projects**.
+## Technologies Used:
+- Python
+- OpenCV for image processing
+- Numpy for array manipulations
 
----
+## How to Use:
+1. Clone this repository.
+2. Add your passport-sized photo to the `images` folder.
+3. Run the script to see your "cool" transformation!
 
-##  **Features**
+## Applications:
+- Learning basic image processing techniques.
+- Adding flair to your photos for fun.
+- Practicing computer vision workflows.
 
-- **Face Detection** – Identifies faces in an image  
-- **Sunglasses Overlay** – Automatically places glasses on the detected face  
-- **Passport Photo Support** – Works well with individual passport-size images  
-- **Customizable** – Easily change sunglasses styles  
-- **Beginner-Friendly** – Simple and easy-to-understand implementation  
-
----
-
-##  **Technologies Used**
-
-- **Python**  
-- **OpenCV** – for image processing and face detection  
-- **NumPy** – for efficient array operations  
-
----
-
+Feel free to fork, contribute, or customize this project for your creative needs!
